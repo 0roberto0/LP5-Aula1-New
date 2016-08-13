@@ -8,6 +8,6 @@
  email="email@servidor">
  Roberto de Jesus
  </author>
-	<icon src="/imagens/icon.png"></icon>
-	<gap:splash src = "/imgens/splash.png"></gap:splash>
+	<icon src="/imagens/icone.png"> </icon>
+	<gap:splash src= "/imgens/splash.png"> </gap:splash>
 </widget>
